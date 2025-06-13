@@ -1,8 +1,6 @@
-Flask
-psycopg2-binary
+Flask==2.2.2
 <<<<<<< HEAD
-gunicorn
-flask-cors
+psycopg2-binary==2.9.5
 =======
-gunicorn
->>>>>>> ed4777d (Simpan perubahan sebelum pull)
+psycopg2==2.9.5
+>>>>>>> abcdefg
