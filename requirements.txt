@@ -1,4 +1,8 @@
 Flask
 psycopg2-binary
+<<<<<<< HEAD
 gunicorn
 flask-cors
+=======
+gunicorn
+>>>>>>> ed4777d (Simpan perubahan sebelum pull)
