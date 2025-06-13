@@ -3,3 +3,4 @@ psycopg2-binary==2.9.5
 psycopg2==2.9.5
 gunicorn
 Werkzeug==2.2.3
+flask-cors==3.0.10
